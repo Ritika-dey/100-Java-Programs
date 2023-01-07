@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class stringCompare{
+class StringCompare{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         String s1 = scan.nextLine();

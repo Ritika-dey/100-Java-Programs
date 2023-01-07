@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class celsiusTofahrenheit{
+class CelsiusTofahrenheit{
     public static void main(String[] args){
         double celsius;
         double fahrenheit;

@@ -1,6 +1,6 @@
 // swap two numbers without using 3rd variable
 import java.util.Scanner;
-class swapTwo{
+class SwapTwo{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();

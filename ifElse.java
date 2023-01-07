@@ -1,6 +1,6 @@
 // biggest number among 3 numbers using if else
 import java.util.Scanner;
-class biggestNum{
+class BiggestNum{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
