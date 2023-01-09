@@ -26,3 +26,8 @@
 25. Find Substrings of a string 
 26. Reverse a String
 27. Palindrome Number
+28. Adding two matrix
+29. Find transpose of a given matrix
+30. indexOf() in java
+31. Replace one string with another string
+32. Split string
